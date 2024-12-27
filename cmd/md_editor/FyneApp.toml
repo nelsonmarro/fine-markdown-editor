@@ -1,0 +1,14 @@
+Website = "https://example.com"
+
+[Details]
+Icon = "../../assets/icon.png"
+Name = "Fine Markdown"
+ID = "com.example.app"
+Version = "1.0.0"
+Build = 7
+
+[LinuxAndBSD]
+GenericName = "Markdown Editor"
+Categories = ["Editor"]
+Comment = "Edit markdown files"
+Keywords = ["editor", "markdown"]
